@@ -1,0 +1,8 @@
+Các thủ thuật khi chỉnh nội dung favourite trong Notepad++
+
+- %26desc%3D<description>%26_options_sf&quot --> chèn mô tả
+- %26fanart%3D<link> --> chèn Fanart
+- Nếu nội dung plot có xuống hàng thì phải bỏ hết khoảng trống, xuống hàng... rồi thêm code xuống hàng: %250A dạng: <content1>%250A<content2> --> Xuống hàng
+- %252B --> dấu +
+12:21 PM 8/18/2022
+Hưng

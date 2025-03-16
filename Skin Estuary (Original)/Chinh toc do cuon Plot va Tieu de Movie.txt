@@ -1,0 +1,5 @@
+Vào Addon\<tên skin>\xml\MyVideoNav.xml tìm đoạn code sau:
+
+<autoscroll delay="10000" time="3000" repeat="10000">Skin.HasSetting(autoscroll)</autoscroll>
+
+Thay đổi giá trị delay (thời gian dừng plot ban đầu), repeat (thời gian dừng plot khi cuộn hết) và time (tốc độ cuộn)

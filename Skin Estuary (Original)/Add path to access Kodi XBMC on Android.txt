@@ -1,0 +1,9 @@
+I have kodi installed in an Nvidia Shield Tube.
+I'm trying to modify the Main menu items in the estuary skin by modifying the file "\XML\home.xml" as instructed on Renaming and Reordering Main Menu Items
+
+According to the link Structure of Estuary the files for this skin can be found in C:\Program Files (x86)\Kodi\addons\skin.estuary\xml
+
+But my environment is not windows.
+Do any of you know where the estuary skin files are located in an Android TV installation?
+
+special://xbmc/
