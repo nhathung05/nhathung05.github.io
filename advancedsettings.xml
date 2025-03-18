@@ -1,0 +1,5 @@
+<advancedsettings version="1.0">
+ <network>
+  <disablehttp2>true</disablehttp2>         <!-- Added in v19- Allows disabling HTTP2 for broken Curl / HTTP2 servers -->
+</network>
+</advancedsettings>
