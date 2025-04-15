@@ -1,0 +1,9 @@
+Truy cập vào xbmc/addons/skin.estyary/xml/Custom_1107_SearchDialog.xml
+
+Thêm nút này vào:
+
+<item>
+	<label>FSHARE</label>
+	<onclick>Dialog.Close(all)</onclick>
+	<onclick>ActivateWindow(10025,"plugin://plugin.video.vietmediaF/?action=_timtrenfshare_",return)</onclick>
+</item>

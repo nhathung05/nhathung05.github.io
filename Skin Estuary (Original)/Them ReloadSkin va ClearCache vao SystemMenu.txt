@@ -1,0 +1,12 @@
+Vào \xbmc\addons\skin.estuary\xml\DialogButtonMenu.xml
+Thêm 2 nút này:
+<item>
+	<label>$LOCALIZE[20183]</label>
+	<onclick>ReloadSkin()</onclick>
+</item>	
+<item>
+	<label>CLEAR CACHE</label>
+	<onclick>PlayMedia("plugin://plugin.Tool-KODIVN/?mode=fullclean")</onclick>
+</item>
+
+hoặc chép file DialogButtonMenu.xml ở đây vào đè ở thư mục xbmc tương ứng

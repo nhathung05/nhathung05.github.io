@@ -1,0 +1,10 @@
+Mặc định sẽ không hiển thị tên phim, chỉ có plot. Khắc phục như sau:
+- Mở xbmc/addons/skin.estuary/xml/MyVideoNav.xml
+- Tìm đến đoạn code:
+	<label>$INFO[ListItem.Title]</label>
+sửa thành:
+	<label>$INFO[ListItem.Label]</label>
+	<autoscroll delay="1000" time="2000" repeat="1000">Skin.HasSetting(autoscroll)</autoscroll>
+Lưu ý: thêm autoscroll để tự động cuộn khi tiêu đề movie dài
+
+Đơn giản là chép file MyVideoNav.xml trong đây đè vào xbmc/addons/skin.estuary/xml

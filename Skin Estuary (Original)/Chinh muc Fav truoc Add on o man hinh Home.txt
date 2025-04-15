@@ -1,0 +1,1 @@
+Chép file Home.xml ở đây vào xbmc/addon/skinname/xml
