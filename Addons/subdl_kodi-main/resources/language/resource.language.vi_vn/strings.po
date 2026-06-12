@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+
+msgctxt "#32001"
+msgid "Error searching for subtitles"
+msgstr "Lỗi tìm kiếm hoặc API quá tải"
+
+msgctxt "#32002"
+msgid "Please enter TMDB and SubDL API Keys"
+msgstr "Vui lòng nhập API Key cá nhân hoặc dùng Key mặc định."
+
+msgctxt "#32101"
+msgid "API Configuration"
+msgstr "Cấu hình API"
+
+msgctxt "#32102"
+msgid "Language Override"
+msgstr "Ngôn ngữ phụ đề"
+
+msgctxt "#32103"
+msgid "Subtitle Utilities"
+msgstr "Tiện ích phụ đề"
+
+msgctxt "#32201"
+msgid "SubDL API Key"
+msgstr "SubDL API Key"
+
+msgctxt "#32202"
+msgid "TMDB API Key"
+msgstr "TMDB API Key"
+
+msgctxt "#32203"
+msgid "Use Custom API Keys"
+msgstr "Dùng API Key cá nhân (Bật nếu tải lỗi)"
+
+msgctxt "#32204"
+msgid "Primary Search Language"
+msgstr "Ngôn ngữ tìm kiếm ưu tiên"
+
+msgctxt "#32205"
+msgid "Remove HTML"
+msgstr "Tự động xóa mã màu HTML (<font>...)"
+
+msgctxt "#32206"
+msgid "Remove HI"
+msgstr "Xóa chú thích âm thanh cho người khiếm thính [HI]"
